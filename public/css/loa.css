@@ -1,0 +1,317 @@
+.block_ {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_1 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 100pt;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    }
+.block_2 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    }
+.block_3 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify
+    }
+.block_4 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 1pt;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_5 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify
+    }
+.block_6 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-decoration: line-through
+    }
+.block_7 {
+    display: table-row;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify
+    }
+.block_8 {
+    display: table-row;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    }
+.block_9 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 72pt;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify;
+    text-indent: -0.5pt;
+    }
+.block_10 {
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 10pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: justify
+    }
+.block_11 {
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center
+    }
+.bullet_ {
+    display: table-cell;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.bullet_1 {
+    display: table-cell;
+    font-weight: bold
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-family: "Arial", sans-serif;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    font-weight: bold
+    }
+.calibre2 {
+    display: table;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 36pt;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre3 {
+    display: table-cell;
+    line-height: 1.2
+    }
+.calibre4 {
+    display: table-cell
+    }
+.calibre5 {
+    display: table;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 35.5pt;
+    padding-right: 0;
+    padding-top: 0;   
+    }
+
+    .calibre5break { 
+        page-break-before: always 
+        }
+.calibre6 {
+    display: table-row-group;
+    vertical-align: middle
+    }
+.calibre7 {
+    display: table-row;
+    vertical-align: inherit
+    }
+.frame_ {
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 1pt;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.tab {
+    white-space: pre
+    }
+.table_ {
+    border-bottom-color: black;
+    border-bottom-style: none;
+    border-bottom-width: 1pt;
+    border-collapse: collapse;
+    border-left-color: black;
+    border-left-style: none;
+    border-left-width: 1pt;
+    border-right-color: black;
+    border-right-style: none;
+    border-right-width: 1pt;
+    border-spacing: 2px;
+    border-top-color: black;
+    border-top-style: none;
+    border-top-width: 1pt;
+    display: table;
+    float: left;
+    margin-bottom: 0;
+    margin-left: 9pt;
+    margin-right: 9pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-indent: 0;
+    width: 468pt
+    }
+.td_ {
+    display: table-cell;
+    padding-bottom: 0.5ex;
+    padding-left: 5.4pt;
+    padding-right: 5.4pt;
+    padding-top: 0.5ex;
+    text-align: inherit;
+    vertical-align: top;
+    width: 468pt
+    }
+.text_ {
+    color: #F00
+    }
+.text_1 {
+    color: #F00;
+    line-height: 1.2
+    }
+.text_2 {
+    color: #0563C1;
+    text-decoration: underline
+    }
+.text_3 {
+    color: #000
+    }
+
+@page {
+    margin-bottom: 35pt;
+    margin-top: 0pt
+    }
+
+    .header1 {
+        position: fixed;
+        top: 0cm;
+        left: 12cm;
+        right: 0cm;
+        height: 3cm;
+    }
+
+    /** Define the footer rules **/
+    .footer1 {
+        position: fixed; 
+        bottom: 0cm; 
+        left: 0cm; 
+        right: 0cm;
+        height: 3cm;
+        background-color: rgb(230, 230, 230);
+    }
+
+    .header2 {
+        position: fixed;
+        top: 1cm;
+        left: 0cm;
+        right: 0cm;
+        height: 1.5cm;
+        background-color: rgb(230, 230, 230);
+    }
